@@ -1,1 +1,55 @@
 
+- title: Education
+  type: time_table
+  contents:
+    - title: Ph.D
+      institution: CentraleSupélec, Université Paris-Saclay
+      year: 2021
+      description:
+        - Applied mathematics field. 
+        - "<em>Thesis title</em>: Statistical Inference and Verification of Chemical Reaction Networks."
+    - title: Engineering Degree
+      institution: Grenoble INP - Ensimag, Université Grenoble-Alpes
+      year: 2016
+      description:
+        - "2nd year: MMIS course."
+        - "3rd year: Data science track in the MSIAM master."
+
+- title: Experience
+  type: time_table
+  contents:
+    - title: Postdoctoral researcher
+      institution: Institut Gustave Roussy and CentraleSupélec
+      year: "2021 - ..."
+      description:
+        - Epidemiology of radiations team, CESP, Institut Gustave Roussy
+        - Biomathematics team, MICS Lab, CentraleSupélec, Université Paris-Saclay
+        - "<em>Subject</em>: Survival analysis of second diseases lately induced by radiotherapy among childhood cancer survivors."
+
+    - title: Ph.D candidate
+      institution: CentraleSupélec, Université Paris-Saclay
+      year: 2017 - 2021
+      description:
+        - Biomathematics team, MICS Lab, CentraleSupélec, Université Paris-Saclay
+        - "<em>Thesis title</em>: Statistical Inference and Verification of Chemical Reaction Networks."
+        - "<em>Subject</em>: Statistical learning and model-checking of Systems Biology models with Bayesian likelihood-free algorithms using the Julia language."
+    
+    - title: Research Engineer
+      institution: CentraleSupélec, Université Paris-Saclay
+      year: 2017
+      description: 
+        - Biomathematics team, MICS Lab, CentraleSupélec, Université Paris-Saclay
+        - "<em>Subject</em>: Machine learning for the inference of Clear Cell Renal Cell Carcinoma (ccRCC) based on RNA-seq data."
+
+    - title: Data science intern
+      institution: Atos (formerly FastConnect)
+      year: 2016
+
+    - title: Security development intern
+      institution: Thalès DIS (formerly Gemalto)
+      year: 2015
+
+- title: Other Interests
+  type: list
+  contents:
+    - Music, Sports, Martial arts.
