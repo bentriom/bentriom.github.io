@@ -20,11 +20,12 @@
   contents:
     - title: Postdoctoral researcher
       institution: Institut Gustave Roussy and CentraleSupélec
-      year: "2021 - ..."
+      year: "2021 - 2023"
       description:
         - Epidemiology of radiations team, CESP, Institut Gustave Roussy
         - Biomathematics team, MICS Lab, CentraleSupélec, Université Paris-Saclay
         - "<em>Subject</em>: Survival analysis of second diseases lately induced by radiotherapy among childhood cancer survivors."
+        - "<em>Details</em>: Postdoctoral researcher. My work is focused on the risk estimation of second diseases lately induced by radiotherapy among childhood cancer survivors. I develop survival analysis techniques (machine and deep learning models on censored data) based on the dose distribution of radiotherapy treatments. The dose distributions are described for the whole body of any patient at a voxel scale and are analyzed as 3D images."
 
     - title: Ph.D candidate
       institution: CentraleSupélec, Université Paris-Saclay
@@ -33,6 +34,7 @@
         - Biomathematics team, MICS Lab, CentraleSupélec, Université Paris-Saclay
         - "<em>Thesis title</em>: Statistical Inference and Verification of Chemical Reaction Networks."
         - "<em>Subject</em>: Statistical learning and model-checking of Systems Biology models with Bayesian likelihood-free algorithms using the Julia language."
+        - "<em>Details</em>: PhD candidate at the MICS lab of CentraleSupélec. My thesis is entitled \"Statistical Inference and Verification of Chemical Reaction Networks\". This work is focused on statistical learning and model-checking of Markov Chain models in Systems Biology. In particular, I developed a novel statistical verification method based on advanced Bayesian statistics and implemented it in the Julia language."
     
     - title: Research Engineer
       institution: CentraleSupélec, Université Paris-Saclay
@@ -40,14 +42,19 @@
       description: 
         - Biomathematics team, MICS Lab, CentraleSupélec, Université Paris-Saclay
         - "<em>Subject</em>: Machine learning for the inference of Clear Cell Renal Cell Carcinoma (ccRCC) based on RNA-seq data."
+        - "<em>Details</em>: Research engineer in the MICS lab of CentraleSupélec. I developed machine-learning techniques for the inference of Clear Cell Renal Cell Carcinoma (ccRCC) based on RNA-seq data from the TCGA portal. This work led to a publication in Cancer Immunology, Immunotherapy."
 
     - title: Data science intern
       institution: Atos (formerly FastConnect)
       year: 2016
-
+      description: 
+        - "<em>Details</em>: Data scientist intern in the data science team of FastConnect (now acquired by Atos). My main work was to set a methodology for future incident detection based on ticketing system data. It involved time series analysis and outlier detection in R and Python."
+    
     - title: Security development intern
       institution: Thalès DIS (formerly Gemalto)
       year: 2015
+      description: 
+        - "<em>Details</em>: Internship in security development. My work was part of an extensive European security project within a Research and Development team of Gemalto (now acquired by Thalès). The objectives were to review the leading mobile app security techniques, implement and integrate them into the project."
 
 - title: Other Interests
   type: list
