@@ -1,3 +1,5 @@
 github_repos:
-  - bentriom/ABCRN.jl
+  - bentriom/BiochemNetABC.jl
+  - bentriom/radiopreditool
+  - bentriom/paradigme-cropper
 
